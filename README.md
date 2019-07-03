@@ -2,7 +2,7 @@
 
 ## capture_use_iphone_x.js
 
-Full cap cap on iPhone X with puppeteer / DeviceDescriptors.
+Full cap on iPhone X with puppeteer / DeviceDescriptors.
 
 ## google_search_by_config_file.js
 
