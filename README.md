@@ -11,3 +11,7 @@ Search Google based on the configuration file monitored by Node.js, save the scr
 ## save_as_html_with_base_tag.js
 
 In order to support loading of images and CSS in root relative path etc., add &lt;base&gt; tag and save html file.
+
+## take_a_screenshot_of_dom.js
+
+Take a screenshot of dom.
